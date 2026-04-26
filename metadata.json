@@ -1,0 +1,6 @@
+{
+  "name": "WebAssembly Kernel V86 (Browser VM)",
+  "description": "Full-stack single page application running a full OS using x86_64 virtualization inside the browser with experimental port forwarding and virtual network interception.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
